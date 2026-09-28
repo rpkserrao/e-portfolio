@@ -89,7 +89,7 @@ section:nth-child(even) {
   padding: 50px 0;
 }
 
-section__title {
+.section__title {
   margin-bottom: 20px;
 }
 
@@ -214,6 +214,7 @@ ABOUT ME
 }
 
 .about-me__links {
+  padding-bottom: 24px;
   animation: fade-up 650ms 800ms backwards;
 }
 
